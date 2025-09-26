@@ -15,7 +15,7 @@
 </p>
 <h2> About me</h2>
 <ul>
-    <li>🗯️ 20 years</li>
+    <li>🗯️ 21 years</li>
     <li>🇲🇽 Mexican</li>
     <li>👩🏻‍💻 Competitive Programmer</li>
     <li>👨‍🏫 Experience teaching programming to different students and teacher training</li>
