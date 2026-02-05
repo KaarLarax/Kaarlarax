@@ -24,6 +24,7 @@
     <li>🤓 Nerdy but cool</li>
     <li>🏐 Like Volleyball</li>
     <li>📘 Love reading and watching movies</li>
+    <li>🔨 Love solve problems and fix computers and anything else</li>
 </ul>
 <h2>I'm currently</h2>
 <ul>
