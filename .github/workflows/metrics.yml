@@ -1,0 +1,26 @@
+name: GitHub Metrics
+on:
+  # Actualiza las estadísticas cada 24 horas
+  schedule: [{cron: "0 0 * * *"}]
+  # Permite correr el workflow manualmente desde la pestaña "Actions"
+  workflow_dispatch:
+  # Ejecuta el action cuando haces un cambio en tu README
+  push: {branches: ["main", "master"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Usa el token automático de GitHub (no necesitas configurar nada extra)
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Tu usuario de GitHub
+          user: KaarLarax 
+          
+          # Configuración visual
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Mexico_City
