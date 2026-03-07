@@ -119,3 +119,4 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=KaarLarax&style=flat-square&color=800080" alt="Visitors Badge"/>
 </p>
+![GitHub Metrics](./github-metrics.svg)
