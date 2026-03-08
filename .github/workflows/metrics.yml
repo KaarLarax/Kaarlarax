@@ -20,6 +20,9 @@ jobs:
           # Tu usuario de GitHub
           user: KaarLarax 
           
+          # SOLUCIÓN: Especificar la rama para evitar el error de "sha"
+          committer_branch: main
+          
           # Configuración visual
           template: classic
           base: header, activity, community, repositories, metadata
