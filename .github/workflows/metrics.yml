@@ -14,13 +14,12 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Usa el token automático de GitHub (no necesitas configurar nada extra)
+          # Usa el token automático de GitHub
           token: ${{ secrets.GITHUB_TOKEN }}
           
           # Tu usuario de GitHub
           user: KaarLarax 
           
-          # SOLUCIÓN: Especificar la rama para evitar el error de "sha"
           committer_branch: main
           
           # Configuración visual
