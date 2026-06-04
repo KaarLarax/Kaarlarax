@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://placehold.co/800x200/000000/FFFFFF/png?text=E+P+I+T+A+P+H&font=playfair-display" alt="Header Carlos Lara" width="100%">
+<img src=".\halo.jpg" alt="Header Carlos Lara" width="100%">
 
 # _**CARLOS LARA**_
 ### 🖥️ B.S. in Computer Science | <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> Eternal Learner
@@ -28,7 +28,7 @@
 
 ## ⟡ Chapter I: The Human Element
 
-<img align="right" src="https://placehold.co/200x300/000000/FFFFFF/png?text=INK%0ASKETCH%0AHERE&font=playfair-display" alt="Manga Character Sketch Placeholder" width="200px">
+<img align="right" src=".\profile-1.jpg" alt="Manga Character Sketch Placeholder" width="200px">
 
 *A logical mind navigating the complexities of algorithms and data structures. When not optimizing C++ code for the ICPC Finals or engineering full-stack architectures, I am representing UAEH on the volleyball court or leading training sessions to forge the next generation of programmers.*
 
@@ -160,6 +160,6 @@
 
 <br><br>
 
-<img src="https://placehold.co/800x100/000000/FFFFFF/png?text=T+O+++B+E+++C+O+N+T+I+N+U+E+D&font=playfair-display" alt="Manga Footer" width="100%">
+<img src=".\to be continued.png" alt="Manga Footer" width="100%">
 
 </div>
