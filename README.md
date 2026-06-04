@@ -2,7 +2,7 @@
 
 <img src=".\halo.jpg" alt="Header Carlos Lara" width="100%">
 
-# _**CARLOS LARA**_
+# _**CARLOS ALBERTO LARA HERNANDEZ**_
 ### 🖥️ B.S. in Computer Science | <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> Eternal Learner
 
 <p align="center">
