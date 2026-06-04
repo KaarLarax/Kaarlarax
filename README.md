@@ -1,125 +1,165 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
-    Hey!, it's Carlos Lara </h1>
-<h3 align="center">Bachelor's Degree in Computer Science | Love learning new things 
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTI3cWE4anJhenJlbjhyb2F4bDg2OHVkN3c0bDF1YnR5NG82dHV5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR85PnGsBwu1PFK/giphy.gif" alt="computer" width="50">
-</h3>
+<div align="center">
+
+<img src="https://placehold.co/800x200/000000/FFFFFF/png?text=E+P+I+T+A+P+H&font=playfair-display" alt="Header Carlos Lara" width="100%">
+
+# _**CARLOS LARA**_
+### 🖥️ B.S. in Computer Science | <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> Eternal Learner
+
 <p align="center">
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=kaarlara.contacto@gmail.com" target="_blank"><img
-            src="https://img.shields.io/badge/-Email-800080?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/kaarlarax/" target="_blank"><img
-            src="https://img.shields.io/badge/-LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.instagram.com/kaarlarax/" target="_blank"><img
-            src="https://img.shields.io/badge/-Instagram-800080?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://www.youtube.com/@KaarLarax" target="_blank"><img
-            src="https://img.shields.io/badge/YouTube-800080?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=kaarlara.contacto@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&border=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/kaarlarax/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&border=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/kaarlarax/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000&border=white" alt="Instagram">
+  </a>
+  <a href="https://www.youtube.com/@KaarLarax" target="_blank">
+    <img src="https://img.shields.io/badge/YOUTUBE-000000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000&border=white" alt="YouTube">
+  </a>
 </p>
-<h2> About me</h2>
-<ul>
-    <li>🗯️ 21 years</li>
-    <li>🇲🇽 Mexican</li>
-    <li>👩🏻‍💻 Competitive Programmer</li>
-    <li>👨‍🏫 Experience teaching programming to different students and teacher training</li>
-    <li>📱 TechLover</li>
-    <li>🗣️ English and Spanish</li>
-    <li>🤓 Nerdy but cool</li>
-    <li>🏐 Like Volleyball</li>
-    <li>📘 Love reading and watching movies</li>
-    <li>🔨 Love solve problems and fix computers and anything else</li>
-</ul>
-<h2>I'm currently</h2>
-<ul>
-    <li>📖 Learning English</li>
-    <li>☁️ Learning Web programming</li>
-    <li>🤖 Learning AI algorithms</li>
-    <li>🐍 Learning Python</li>
-    <li>📹 Creating Content</li>
-</ul>
 
-<h2>Programming Languages and Technologies I know</h2>
-<a href="#"><img
-        src="https://img.shields.io/badge/-C++-0D1117?style=rounded-square&logo=cplusplus&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/-C-0D1117?style=rounded-square&logo=c&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Java-0D1117?style=rounded-square&logo=oracle&logoColor=800080"></a>
-<a href="#"><img
-        src="https://img.shields.io/badge/-Python-0D1117?style=rounded-square&logo=python&logoColor=800080"></a>
-<a href="#"><img
-        src="https://img.shields.io/badge/Markdown-%230D1117.svg?style=rounded-square&logo=markdown&logoColor=800080"></a>
-<a href="#"><img
-        src="https://img.shields.io/badge/-Raspberry%20Pi-0D1117?style=rounded-square&logo=Raspberry-Pi&logoColor=800080"></a>
-<a href="#"><img
-        src="https://img.shields.io/badge/MySQL-0D1117.svg?style=rounded-square&logo=mysql&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Prolog-0D1117?style=rounded-square&logo=prolog&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117.svg?style=rounded-square&logo=github&logoColor=800080"></a>
+</div>
 
-<h2>Programming Languages and Technologies I want to learn</h2>
-<a href="#"><img
-        src="https://img.shields.io/badge/-JavaScript-0D1117?style=rounded-square&logo=javascript&logoColor=800080"></a>
-<a href="#"><img
-        src="https://img.shields.io/badge/-TypeScript-0D1117?style=rounded-square&logo=typescript&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/Node-0D1117.svg?style=rounded-square&logo=node.js&logoColor=800080"></a>
-<a href="#"><img
-        src="https://img.shields.io/badge/React-0D1117.svg?style=rounded-square&logo=react&logoColor=800080"></a>
-<a href="#"><img
-        src="https://img.shields.io/badge/Flutter-0D1117.svg?style=rounded-square&logo=flutter&logoColor=800080"></a>
-<a href="#"><img
-        src="https://img.shields.io/badge/Microsoft Azure-0D1117.svg?style=rounded-square&logo=microsoftazure&logoColor=800080"></a>
-<a href="#"><img
-        src="https://img.shields.io/badge/Figma-0D1117.svg?style=rounded-square&logo=figma&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Swift-0D1117?style=rounded-square&logo=swift&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Go-0D1117?style=rounded-square&logo=go&logoColor=800080"></a>
-<a href="#"><img
-        src="https://img.shields.io/badge/-Digital%20Ocean-0D1117?style=rounded-square&logo=digitalocean&logoColor=800080"></a>
-<a href="#"><img
-        src="https://img.shields.io/badge/-Kubernetes-0D1117?style=rounded-square&logo=kubernetes&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=rounded-square&logo=html5&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/-CSS3-0D1117?style=rounded-square&logo=css3&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/Git-0D1117.svg?style=rounded-square&logo=git&logoColor=800080"></a>
-<a href="#"><img
-        src="https://img.shields.io/badge/Slack-0D1117.svg?style=rounded-square&logo=slack&logoColor=800080"></a>
-<a href="#"><img
-        src="https://img.shields.io/badge/-Docker-0D1117?style=rounded-square&logo=docker&logoColor=800080"></a>
-<a href="#"><img
-        src="https://img.shields.io/badge/Amazon%20AWS-0D1117?style=rounded-square&logo=amazon-aws&logoColor=800080"></a>
+<br>
 
-<h2>Enviroment, IDEs and Tools</h2>
-<a href="#"><img src="https://img.shields.io/badge/-Code%3A%3ABlocks-0D1117?style=rounded-square&logo=codeblocks&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/-CLion-0D1117?style=rounded-square&logo=clion&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/-MATLAB-0D1117?style=rounded-square&logo=matlab&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/-MPLAB%20X%20IDE-0D1117?style=rounded-square&logo=c&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/-PyCharm-0D1117?style=rounded-square&logo=pycharm&logoColor=800080"></a>
-<a href="#"><img
-        src="https://img.shields.io/badge/VSCode-0D1117.svg?style=rounded-square&logo=visualstudiocode&logoColor=800080"></a>
-<a href="#"><img
-        src="https://img.shields.io/badge/IntelliJ IDEA-0D1117.svg?style=rounded-square&logo=intellijidea&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Windows-0D1117?style=rounded-square&logo=windows&logoColor=800080"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Linux-0D1117?style=rounded-square&logo=linux&logoColor=800080"></a>
+---
 
-<br/>
+## ⟡ Chapter I: The Human Element
 
+<img align="right" src="https://placehold.co/200x300/000000/FFFFFF/png?text=INK%0ASKETCH%0AHERE&font=playfair-display" alt="Manga Character Sketch Placeholder" width="200px">
+
+*A logical mind navigating the complexities of algorithms and data structures. When not optimizing C++ code for the ICPC Finals or engineering full-stack architectures, I am representing UAEH on the volleyball court or leading training sessions to forge the next generation of programmers.*
+
+* **Status:** 21 years | Actopan, Hidalgo, Mexico 🇲🇽
+* **Identity:** Software Engineer Intern | Competitive Programmer 
+* **Language:** Spanish (Native) | English (B2)
+* **Mindset:** Problem Solver | Tech Educator | Hardware Fixer
+* **Recreation:** Varsity Volleyball (CONDDE) | Reading & Movies
+* **Log:** Lead Instructor & Organizer at the UAEH Competitive Programming Club.
+
+> *"A problem is nothing more than a challenge waiting for an elegant solution."*
+
+<br>
+
+---
+
+## ⟡ Chapter II: Uncharted Coordinates
+
+> *Journeys currently underway...*
+
+- [x] ⚙️ Optimizing server infrastructures and web environments.
+- [x] 👨‍🏫 Mentoring 200+ students in advanced algorithms and data structures.
+- [x] 🤖 Exploring AI integration (Phi models, LLMs) in mobile development.
+- [ ] 📹 Documenting the process through content creation.
+
+<br>
+
+---
+
+## ⟡ Chapter III: Instruments of Creation
+
+> *The fundamental tools used to shape logic into reality.*
+
+### <img src="https://img.shields.io/badge/LANGUAGES-000000?style=coord&labelColor=000000" alt="Languages Badge">
+<p align="left">
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JS">
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TS">
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+</p>
+
+### <img src="https://img.shields.io/badge/FRAMEWORKS_%26_TECH-000000?style=coord&labelColor=000000" alt="Tech Badge">
+<p align="left">
+<img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
+
+<br>
+
+---
+
+## ⟡ Chapter IV: Horizons Yet to Reach
+
+> *Artifacts and architectures awaiting discovery.*
+
+<p align="left">
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white" alt="Node">
+<img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white" alt="Go">
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white" alt="K8s">
+<img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure">
+</p>
+
+<br>
+
+---
+
+## ⟡ Chapter V: The Control Room
+
+> *The environments where the architecture is drawn.*
+
+<p align="left">
+<img src="https://img.shields.io/badge/VSCode-000000?style=plastic&logo=visual-studio-code&logoColor=white" alt="VSCode">
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=plastic&logo=intellij-idea&logoColor=white" alt="IntelliJ">
+<img src="https://img.shields.io/badge/CLion-000000?style=plastic&logo=clion&logoColor=white" alt="CLion">
+<img src="https://img.shields.io/badge/Linux-000000?style=plastic&logo=linux&logoColor=white" alt="Linux">
+<img src="https://img.shields.io/badge/Windows-000000?style=plastic&logo=windows&logoColor=white" alt="Windows">
+<img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=unity&logoColor=white" alt="Unity">
+</p>
+
+<br>
+
+---
+
+## ⟡ Chapter VI: The Archives
+
+> *Records of past campaigns and victories.*
+
+* 🏆 **2x ICPC Mexico Finals Finalist** (2024, 2025)
+* 🥇 **1st Place - EXPOCET UAEH VR Contest** (Developed the *Caspar David Friedrich Virtual Museum* in Unity/AR)
+* 💼 **Software Engineer Intern @ clearway.com.mx** (Reduced server operational costs by 93% and engineered custom B2B web environments)
+* 👨‍🏫 **Instructor & Organizer** - UAEH Competitive Programming Club (Mentoring 200+ active members)
+
+<br>
+
+---
+
+## ⟡ Chapter VII: Echoes in the Network
 
 <div align="center">
-    <img alt="Carlos' Github Stats"
-         src="https://github-readme-stats.vercel.app/api?username=KaarLarax&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=800080&icon_color=800080"
-         height="180"/>
-    <img alt="Carlos' Top Languages"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaarLarax&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=800080&icon_color=800080"
-         height="180"/>
-    <br/>
-    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect
-        experience or skill level.</i>
-    <br/>
-    <br/>
-    <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark"
-         data-type="VERTICAL" data-vanity="carlos-lara" data-version="v1"><a class="badge-base__link LI-simple-link"
-                                                                             href="https://www.linkedin.com/in/kaarlarax/">Carlos
-        Alberto Lara Hernandez</a></div>
-    <br/>
+
+<img alt="Carlos' Github Stats" src="https://github-readme-stats.vercel.app/api?username=KaarLarax&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff" height="180"/>
+<img alt="Carlos' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaarLarax&langs_count=10&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff" height="180"/>
+
+<br>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="carlos-lara" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/kaarlarax/">Carlos Alberto Lara Hernandez</a>
 </div>
-<br/>
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=KaarLarax&style=flat-square&color=800080" alt="Visitors Badge"/>
-</p>
+
 <br>
-<br>
-<br>
-<br>
+
+<img src="https://komarev.com/ghpvc/?username=KaarLarax&style=sten&color=000000&label=OBSERVERS" alt="Visitors Badge"/>
+
+<br><br>
+
+<img src="https://placehold.co/800x100/000000/FFFFFF/png?text=T+O+++B+E+++C+O+N+T+I+N+U+E+D&font=playfair-display" alt="Manga Footer" width="100%">
+
+</div>
