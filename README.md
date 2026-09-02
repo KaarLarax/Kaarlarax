@@ -153,7 +153,7 @@
 
 <br>
 
-<a href="https://www.kaarlarax.dev/" target="_blank">
+<a href="https://kaarlarax.dev/" target="_blank">
   <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-000000?style=for-the-badge&logo=globe&logoColor=white&labelColor=000000" alt="My Website" style="border: 1px solid white; border-radius: 6px;">
 </a>
 
