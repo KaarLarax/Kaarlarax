@@ -145,8 +145,8 @@
 
 <div align="center">
 
-<img alt="Carlos' Github Stats" src="https://github-readme-stats.vercel.app/api?username=KaarLarax&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff" height="180"/>
-<img alt="Carlos' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaarLarax&langs_count=10&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff" height="180"/>
+<img alt="Carlos' Github Stats" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=KaarLarax&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff" height="180"/>
+<img alt="Carlos' Top Languages" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=KaarLarax&langs_count=10&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff" height="180"/>
 
 <br>
 
