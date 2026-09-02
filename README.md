@@ -12,6 +12,9 @@
   <a href="https://www.linkedin.com/in/kaarlarax/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&border=white" alt="LinkedIn">
   </a>
+  <a href="https://www.kaarlarax.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=Devbox&logoColor=white&labelColor=000000&border=white" alt="My Website"">
+  </a>
   <a href="https://www.instagram.com/kaarlarax/" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000&border=white" alt="Instagram">
   </a>
@@ -150,9 +153,9 @@
 
 <br>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="carlos-lara" data-version="v1">
-  <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/kaarlarax/">Carlos Alberto Lara Hernandez</a>
-</div>
+<a href="https://www.kaarlarax.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-000000?style=for-the-badge&logo=globe&logoColor=white&labelColor=000000" alt="My Website" style="border: 1px solid white; border-radius: 6px;">
+</a>
 
 <br>
 
